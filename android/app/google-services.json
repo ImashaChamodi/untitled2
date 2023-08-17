@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643981433750",
+    "firebase_url": "https://tourguide-3e3ac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tourguide-3e3ac",
+    "storage_bucket": "tourguide-3e3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643981433750:android:3b6b6cbba4b3f85d795bb7",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643981433750-qfdt699muf390a4fgak1mh6h9nmj2q0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLZwL8DDIwT1-PVmc1PR2JPLAcu8kMnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643981433750-qfdt699muf390a4fgak1mh6h9nmj2q0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643981433750-0uragc4thv57qveunn0vk4st18hco90r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tour"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
